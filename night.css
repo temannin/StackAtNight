@@ -152,6 +152,10 @@ time {
     border: 1px solid white;
 }
 
+.module.community-bulletin .bulletin-title {
+    color: white;
+}
+
 .fc-medium {
     color: white !important
 }
@@ -164,3 +168,50 @@ time {
     background-color: #19507E;
     color: white;
 }
+
+.narrow .mini-counts {
+    color: white;
+}
+
+.status.answered {
+    color: white;
+    border-color: #2ecc71;
+    background-color: #27ae60;
+}
+
+.status.answered, .status.answered .mini-counts, .status.answered strong {
+    color: white;
+}
+
+.mini-counts.warm, .warm {
+    color: #F4811F;
+}
+
+.s-sidebarwidget--header {
+    background-color: #44475A;
+    color: white;
+}
+
+.nav-links .nav-links--link.-link__with-icon:hover .svg-icon, .nav-links .nav-links--link.-link__with-icon:focus .svg-icon, .nav-links .nav-links--link.-link__with-icon:active .svg-icon {
+    color: white;
+}
+
+.fc-black-500 {
+    color: white !important;
+}
+
+.mdhelp-tabs {
+    background-color: #44475a;
+    color: white;
+}
+
+.f-label, label.f-label {
+    color: white;
+}
+
+.wmd-help-button.active-help {
+    background-color: #44475a;
+}
+
+
+
