@@ -1,0 +1,166 @@
+body {
+    background-color: #282a36;
+    color: white;
+}
+
+.top-bar {
+    background-color: #44475a;
+}
+
+.nav-links .nav-links--link, .nav-links .nav-links--link:visited {
+    color: white;
+}
+
+.s-btn__primary {
+    background-color: #F4811F;
+    outline: none;
+    border:none;
+    box-shadow: none;
+}
+
+.s-btn__primary:hover {
+    background-color: rgb(209, 112, 27);
+    outline: none;
+    box-shadow: none;
+}
+
+#content {
+    background-color: #282a36;
+}
+
+.nav-links .youarehere .nav-links--link {
+    color: #f8f8f2;
+}
+
+.-link--channel-name {
+    color: #f8f8f2;
+}
+
+#nav-tags {
+    color: #f8f8f2;
+}
+
+#nav-users {
+    color: #f8f8f2;
+}
+
+#nav-jobs {
+    color: #f8f8f2;
+}
+
+.question-hyperlink {
+    color: #f8f8f2;
+}
+
+.tagged-interesting {
+    background-color: #282a36;
+}
+
+.module.community-bulletin {
+    background-color: #44475a;
+}
+
+#sidebar h4 {
+    color: #f8f8f2;
+}
+
+.js-gps-track question-hyperlink mb0 {
+    color: #f8f8f2;
+}
+
+.question-summary {
+    box-shadow: none;
+    border-bottom: .5px solid #8a8a8a;
+}
+
+#question-summary-54974098 {
+    border: none;
+    box-shadow: none;
+}
+
+#question-mini-list {
+    border: none;
+    border-right: 1px solid rgb(75, 78, 99);
+}
+
+#qlist-wrapper {
+    border-top: .5px solid #8a8a8a;
+}
+
+.s-btn__muted.s-btn__outlined:focus, .s-btn__muted.s-btn__outlined.is-selected {
+    color:white;
+}
+
+.s-btn__muted.s-btn__outlined:hover, .s-btn__muted.s-btn__outlined:active {
+    color:white;
+}
+
+code {
+    background-color: #414558;
+    color: white;
+}
+
+time {
+    color: white;
+}
+
+.label-key b, .label-key strong {
+    color: white;
+}
+
+.prettyprint {
+    background-color: #414558;
+}
+
+#question-header .question-hyperlink {
+    color: white;
+}
+
+.top-bar .my-profile .-rep {
+    color: white;
+}
+/* Code */
+
+.kwd {
+    color: #8be9fd;
+}
+
+.pln, .pun {
+    color: #ecf0f1;
+}
+
+.str, .lit {
+    color: #27ae60;
+}
+
+.atv {
+    color: #48dbfb; 
+}
+
+.tag {
+    color: #e67e22;
+}
+
+/* End Code */
+
+.searchbar {
+    box-shadow: none;
+    outline: none;
+}
+
+.module.community-bulletin {
+    border: 1px solid white;
+}
+
+.fc-medium {
+    color: white !important
+}
+
+.s-btn__outlined {
+    color: white;
+}
+
+.s-btn__outlined:hover {
+    background-color: #19507E;
+    color: white;
+}

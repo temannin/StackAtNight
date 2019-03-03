@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "StackAtNight",
+  "version": "1.0",
+  "description": "Extension that turns your StackOverflow to night mode. ",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "run_at": "document_end",
+      "matches": ["*://*.stackoverflow.com/*"],
+      "js": ["domready.js", "night.js"],
+      "css": ["night.css"]
+    }
+  ]
+}
