@@ -1,6 +1,6 @@
 body {
     background-color: #282a36;
-    color: white;
+    color: #f8f8f2;
 }
 
 .top-bar {
@@ -8,7 +8,7 @@ body {
 }
 
 .nav-links .nav-links--link, .nav-links .nav-links--link:visited {
-    color: white;
+    color: #f8f8f2;
 }
 
 .s-btn__primary {
@@ -88,24 +88,24 @@ body {
 }
 
 .s-btn__muted.s-btn__outlined:focus, .s-btn__muted.s-btn__outlined.is-selected {
-    color:white;
+    color:#f8f8f2;
 }
 
 .s-btn__muted.s-btn__outlined:hover, .s-btn__muted.s-btn__outlined:active {
-    color:white;
+    color:#f8f8f2;
 }
 
 code {
     background-color: #414558;
-    color: white;
+    color: #f8f8f2;
 }
 
 time {
-    color: white;
+    color: #f8f8f2;
 }
 
 .label-key b, .label-key strong {
-    color: white;
+    color: #f8f8f2;
 }
 
 .prettyprint {
@@ -113,11 +113,11 @@ time {
 }
 
 #question-header .question-hyperlink {
-    color: white;
+    color: #f8f8f2;
 }
 
 .top-bar .my-profile .-rep {
-    color: white;
+    color: #f8f8f2;
 }
 /* Code */
 
@@ -149,38 +149,38 @@ time {
 }
 
 .module.community-bulletin {
-    border: 1px solid white;
+    border: 1px solid #f8f8f2;
 }
 
 .module.community-bulletin .bulletin-title {
-    color: white;
+    color: #f8f8f2;
 }
 
 .fc-medium {
-    color: white !important
+    color: #f8f8f2 !important
 }
 
 .s-btn__outlined {
-    color: white;
+    color: #f8f8f2;
 }
 
 .s-btn__outlined:hover {
     background-color: #19507E;
-    color: white;
+    color: #f8f8f2;
 }
 
 .narrow .mini-counts {
-    color: white;
+    color: #f8f8f2;
 }
 
 .status.answered {
-    color: white;
+    color: #f8f8f2;
     border-color: #2ecc71;
     background-color: #27ae60;
 }
 
 .status.answered, .status.answered .mini-counts, .status.answered strong {
-    color: white;
+    color: #f8f8f2;
 }
 
 .mini-counts.warm, .warm {
@@ -189,28 +189,77 @@ time {
 
 .s-sidebarwidget--header {
     background-color: #44475A;
-    color: white;
+    color: #f8f8f2;
 }
 
 .nav-links .nav-links--link.-link__with-icon:hover .svg-icon, .nav-links .nav-links--link.-link__with-icon:focus .svg-icon, .nav-links .nav-links--link.-link__with-icon:active .svg-icon {
-    color: white;
+    color: #f8f8f2;
 }
 
 .fc-black-500 {
-    color: white !important;
+    color: #f8f8f2 !important;
 }
 
 .mdhelp-tabs {
     background-color: #44475a;
-    color: white;
+    color: #f8f8f2;
 }
 
 .f-label, label.f-label {
-    color: white;
+    color: #f8f8f2;
 }
 
 .wmd-help-button.active-help {
     background-color: #44475a;
+}
+
+/* StackExchange Sites */
+
+.site-header {
+    background-color: #282a36;
+}
+
+.site-header--link{
+    color: #f8f8f2;
+}
+
+blockquote {
+    background-color: #282a36;
+}
+
+.site-header .site-header--link {
+    color: #f8f8f2;
+}
+
+.s-btn__muted.s-btn__outlined {
+    background-color: #44475a;
+    color: #f8f8f2;
+}
+
+.s-label {
+    color: #f8f8f2;
+}
+
+.s-description {
+    color: rgb(192, 192, 192);
+}
+
+.site-footer {
+    background-color: #191a22;
+}
+
+.site-footer .-title a {
+    color: #f8f8f2;
+}
+
+.s-notice__warning {
+    background-color: #44475a;
+    color: #f8f8f2;
+    border: none;
+}
+
+.top-bar .searchbar .s-input {
+    background-color: #f8f8f2;
 }
 
 

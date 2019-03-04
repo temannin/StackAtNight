@@ -8,7 +8,7 @@
     {
       "all_frames": true,
       "run_at": "document_start",
-      "matches": ["*://*.stackoverflow.com/*"],
+      "matches": ["*://*.stackoverflow.com/*", "*://literature.stackexchange.com/*"],
       "css": ["night.css"]
     }
   ]
