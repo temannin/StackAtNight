@@ -179,6 +179,15 @@ time {
   color: #f8f8f2;
 }
 
+.question-status {
+    background-color: #44475a;
+    border-radius: 4px;
+}
+
+a {
+    color: rgb(118, 184, 255);
+}
+
 .status.answered {
   color: #f8f8f2;
   border-color: #2ecc71;
