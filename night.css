@@ -1,266 +1,281 @@
 body {
-    background-color: #282a36;
-    color: #f8f8f2;
+  background-color: #282a36;
+  color: #f8f8f2;
 }
 
 .top-bar {
-    background-color: #44475a;
+  background-color: #44475a;
 }
 
-.nav-links .nav-links--link, .nav-links .nav-links--link:visited {
-    color: #f8f8f2;
+.nav-links .nav-links--link,
+.nav-links .nav-links--link:visited {
+  color: #f8f8f2;
 }
 
 .s-btn__primary {
-    background-color: #F4811F;
-    outline: none;
-    border:none;
-    box-shadow: none;
+  background-color: #f4811f;
+  outline: none;
+  border: none;
+  box-shadow: none;
 }
 
 .s-btn__primary:hover {
-    background-color: rgb(209, 112, 27);
-    outline: none;
-    box-shadow: none;
+  background-color: rgb(209, 112, 27);
+  outline: none;
+  box-shadow: none;
 }
 
 #content {
-    background-color: #282a36;
+  background-color: #282a36;
 }
 
 .nav-links .youarehere .nav-links--link {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .-link--channel-name {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 #nav-tags {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 #nav-users {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 #nav-jobs {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .question-hyperlink {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .tagged-interesting {
-    background-color: #282a36;
+  background-color: #282a36;
 }
 
 .module.community-bulletin {
-    background-color: #44475a;
+  background-color: #44475a;
 }
 
 #sidebar h4 {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .js-gps-track question-hyperlink mb0 {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .question-summary {
-    box-shadow: none;
-    border-bottom: .5px solid #8a8a8a;
+  box-shadow: none;
+  border-bottom: 0.5px solid #8a8a8a;
 }
 
 #question-summary-54974098 {
-    border: none;
-    box-shadow: none;
+  border: none;
+  box-shadow: none;
 }
 
 #question-mini-list {
-    border: none;
-    border-right: 1px solid rgb(75, 78, 99);
+  border: none;
+  border-right: 1px solid rgb(75, 78, 99);
 }
 
 #qlist-wrapper {
-    border-top: .5px solid #8a8a8a;
+  border-top: 0.5px solid #8a8a8a;
 }
 
-.s-btn__muted.s-btn__outlined:focus, .s-btn__muted.s-btn__outlined.is-selected {
-    color:#f8f8f2;
+.s-btn__muted.s-btn__outlined:focus,
+.s-btn__muted.s-btn__outlined.is-selected {
+  color: #f8f8f2;
 }
 
-.s-btn__muted.s-btn__outlined:hover, .s-btn__muted.s-btn__outlined:active {
-    color:#f8f8f2;
+.s-btn__muted.s-btn__outlined:hover,
+.s-btn__muted.s-btn__outlined:active {
+  color: #f8f8f2;
 }
 
 code {
-    background-color: #414558;
-    color: #f8f8f2;
+  background-color: #414558;
+  color: #f8f8f2;
 }
 
 time {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
-.label-key b, .label-key strong {
-    color: #f8f8f2;
+.label-key b,
+.label-key strong {
+  color: #f8f8f2;
 }
 
 .prettyprint {
-    background-color: #414558;
+  background-color: #414558;
 }
 
 #question-header .question-hyperlink {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .top-bar .my-profile .-rep {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 /* Code */
 
 .kwd {
-    color: #8be9fd;
+  color: #8be9fd;
 }
 
-.pln, .pun {
-    color: #ecf0f1;
+.pln,
+.pun {
+  color: #ecf0f1;
 }
 
-.str, .lit {
-    color: #27ae60;
+.str,
+.lit {
+  color: #27ae60;
 }
 
 .atv {
-    color: #48dbfb; 
+  color: #48dbfb;
 }
 
 .tag {
-    color: #e67e22;
+  color: #e67e22;
 }
 
 /* End Code */
 
 .searchbar {
-    box-shadow: none;
-    outline: none;
+  box-shadow: none;
+  outline: none;
 }
 
 .module.community-bulletin {
-    border: 1px solid #f8f8f2;
+  border: 1px solid #f8f8f2;
 }
 
 .module.community-bulletin .bulletin-title {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .fc-medium {
-    color: #f8f8f2 !important
+  color: #f8f8f2 !important;
 }
 
 .s-btn__outlined {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .s-btn__outlined:hover {
-    background-color: #19507E;
-    color: #f8f8f2;
+  background-color: #19507e;
+  color: #f8f8f2;
 }
 
 .narrow .mini-counts {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .status.answered {
-    color: #f8f8f2;
-    border-color: #2ecc71;
-    background-color: #27ae60;
+  color: #f8f8f2;
+  border-color: #2ecc71;
+  background-color: #27ae60;
 }
 
-.status.answered, .status.answered .mini-counts, .status.answered strong {
-    color: #f8f8f2;
+.status.answered,
+.status.answered .mini-counts,
+.status.answered strong {
+  color: #f8f8f2;
 }
 
-.mini-counts.warm, .warm {
-    color: #F4811F;
+.mini-counts.warm,
+.warm {
+  color: #f4811f;
 }
 
 .s-sidebarwidget--header {
-    background-color: #44475A;
-    color: #f8f8f2;
+  background-color: #44475a;
+  color: #f8f8f2;
 }
 
-.nav-links .nav-links--link.-link__with-icon:hover .svg-icon, .nav-links .nav-links--link.-link__with-icon:focus .svg-icon, .nav-links .nav-links--link.-link__with-icon:active .svg-icon {
-    color: #f8f8f2;
+.nav-links .nav-links--link.-link__with-icon:hover .svg-icon,
+.nav-links .nav-links--link.-link__with-icon:focus .svg-icon,
+.nav-links .nav-links--link.-link__with-icon:active .svg-icon {
+  color: #f8f8f2;
 }
 
 .fc-black-500 {
-    color: #f8f8f2 !important;
+  color: #f8f8f2 !important;
 }
 
 .mdhelp-tabs {
-    background-color: #44475a;
-    color: #f8f8f2;
+  background-color: #44475a;
+  color: #f8f8f2;
 }
 
-.f-label, label.f-label {
-    color: #f8f8f2;
+.f-label,
+label.f-label {
+  color: #f8f8f2;
 }
 
 .wmd-help-button.active-help {
-    background-color: #44475a;
+  background-color: #44475a;
 }
 
 /* StackExchange Sites */
 
 .site-header {
-    background-color: #282a36;
+  background-color: #282a36;
 }
 
-.site-header--link{
-    color: #f8f8f2;
+.site-header--link {
+  color: #f8f8f2;
 }
 
 blockquote {
-    background-color: #282a36;
+  background-color: #282a36;
 }
 
 .site-header .site-header--link {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .s-btn__muted.s-btn__outlined {
-    background-color: #44475a;
-    color: #f8f8f2;
+  background-color: #44475a;
+  color: #f8f8f2;
 }
 
 .s-label {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .s-description {
-    color: rgb(192, 192, 192);
+  color: rgb(192, 192, 192);
 }
 
 .site-footer {
-    background-color: #191a22;
+  background-color: #191a22;
 }
 
 .site-footer .-title a {
-    color: #f8f8f2;
+  color: #f8f8f2;
 }
 
 .s-notice__warning {
-    background-color: #44475a;
-    color: #f8f8f2;
-    border: none;
+  background-color: #44475a;
+  color: #f8f8f2;
+  border: none;
 }
 
 .top-bar .searchbar .s-input {
-    background-color: #f8f8f2;
+  background-color: #f8f8f2;
 }
 
-
-
+.top-bar .-logo .-img {
+    content: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stackoverflow_meaningful_logo.svg/2000px-Stackoverflow_meaningful_logo.svg.png");
+    background-image: url("");
+    transform: scaleX(.20);
+}
